@@ -74,7 +74,7 @@
     "crypto": "1.0.1",
     "ethereum-block-by-date": "1.4.5",
     "ethers": "5.6.8",
-    "graphql": "16.5.0",
+    "graphql": "16.8.1",
     "graphql-tag": "2.12.6",
     "highcharts": "10.1.0",
     "highcharts-vue": "1.4.0",
